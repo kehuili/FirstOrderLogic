@@ -1,0 +1,6 @@
+1
+A(Tom)
+3
+A(x)|B(x,y)
+C(x,y)|B(y,z)
+~C(Tom,Mary)
